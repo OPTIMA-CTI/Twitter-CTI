@@ -12,6 +12,8 @@ This repository provides an automated pipeline for collecting and analyzing cybe
 ## 📁 Repository Structure
 
 ├── code/ # Scripts for tweet collection, preprocessing, classification, IoC extraction, bot classification
+
 ├── dataset/ # Datasets for relevant tweet classification and bot detection
+
 ├── TIP/ # Code to search IoCs in external Threat Intelligence Platforms and store results
 
